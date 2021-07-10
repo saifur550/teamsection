@@ -108,5 +108,7 @@ header{
 
 .photo-frame:hover .food-img{
    transform: scale(1.2);
+   transition:transform  0.5s ease-in-out ;
+   cursor: pointer;
 }
  
